@@ -107,4 +107,6 @@ By transforming raw financial records into interactive analytics, this project d
 - Connect with real-time financial data sources for live dashboards.  
 
 ---
+![Power BI Dashboard Screenshot](Investment_Dashboard.png)
+
 
